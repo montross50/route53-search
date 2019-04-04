@@ -3,9 +3,9 @@
 # Description
 I need to search for a dns record across all of my hosted zones. This utility allows you to do this. You can either specify the zone_id for single zone search or by default search all hosted zones returned to you by route 53.
 # Installation
-python3 -m venv PATH
-source PATH/bin/activate
-pip install -r requirements.txt
+python3 -m venv PATH  
+source PATH/bin/activate  
+pip install -r requirements.txt  
 
 # Usage
 
