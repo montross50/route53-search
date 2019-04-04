@@ -9,6 +9,10 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+bin/
+include/
+pyvenv.cfg
+.venv
 develop-eggs/
 dist/
 downloads/
